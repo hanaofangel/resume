@@ -37,74 +37,60 @@
 // 				"Within a team of developers and music enthousiast, I was the swiss knife : editor, photographer, testor, voice for the user, the live music expert within the product team of Plemi.com : a funded start-up that developped a solution of crownfunding for concerts, an on demand concept from music fans in partnership with venues and artists and events producers"
 // 		},
 // 		{
-// 			title: "Freelance Developer",
-// 			location: "UK",
-// 			date: "2005 -2013",
+// 			title: "Freelance Designer",
+// 			location: "JP",
+// 			date: "2000-2008",
 // 			text:
-// 				"Providing an affordable design and build solution which allowed many clients to have a unique web presence"
+// 				"Providing an affordable design and blog solution which allowed many clients to have their first web presence"
 // 		}
 // 	],
 // 	projects: [
 // 		{
-// 			name: "Love or Money",
-// 			desc: "Cool React based data visualisation tool and Wordpress Microsite",
-// 			tags: ["React", "Wordpress", "graphs"],
+// 			name: "Name",
+// 			desc: "description of the project",
+// 			tags: ["Tag1", "Tag2", "Tag3"],
 // 			colors: ["#E30613", "#00698C", "#737373", "#5CB4EB"],
 // 			image_type: "tall",
 // 			images: [
-// 				"https://chrismcnally.co.uk/assets/screens/love_or_money/tool/screen2.png",
-// 				"https://chrismcnally.co.uk/assets/screens/love_or_money/tool/screen6.png",
-// 				"https://chrismcnally.co.uk/assets/screens/love_or_money/home.png"
+// 				"https://link.png",
+// 				"https://link.png",
+// 				"https://link.png"
 // 			]
 // 		},
 // 		{
-// 			name: "Marketing Microsite",
-// 			desc: "Pretty little website to showcase new promotions",
-// 			tags: ["scroll effects", "floating nav"],
-// 			colors: ["#E87722", "#222222"],
+// 			name: "Name",
+// 			desc: "description of the project",
+// 			tags: ["Tag1", "Tag2", "Tag3"],
+// 			colors: ["#E30613", "#00698C", "#737373", "#5CB4EB"],
 // 			image_type: "tall",
 // 			images: [
-// 				"https://chrismcnally.co.uk/assets/screens/inside_track/screen1.PNG",
-// 				"https://chrismcnally.co.uk/assets/screens/inside_track/screen4.PNG",
-// 				"https://chrismcnally.co.uk/assets/screens/inside_track/screen9.PNG"
+// 				"https://link.png",
+// 				"https://link.png",
+// 				"https://link.png"
 // 			]
 // 		},
 // 		{
-// 			name: "Personal Website chrismcnally.co.uk",
-// 			desc:
-// 				"My own website, always a work in progress and was a lot of fun to make !",
-// 			tags: ["wordpress", "animation", "vertical nav"],
-// 			colors: ["#976BBA", "#00BCD4", "#A6C0DC", "#3B3B3A"],
+// 			name: "Name",
+// 			desc: "description of the project",
+// 			tags: ["Tag1", "Tag2", "Tag3"],
+// 			colors: ["#E30613", "#00698C", "#737373", "#5CB4EB"],
 // 			image_type: "tall",
 // 			images: [
-// 				"https://chrismcnally.co.uk/assets/screens/cm/home.png",
-// 				"https://chrismcnally.co.uk/assets/screens/cm/me.png",
-// 				"https://chrismcnally.co.uk/assets/screens/cm/contact.png"
+// 				"https://link.png",
+// 				"https://link.png",
+// 				"https://link.png"
 // 			]
 // 		},
 // 		{
-// 			name: "theblackheartorchestra.com",
-// 			desc:
-// 				"Stunning minimal site for popular folk band, the blackheart orchestra",
-// 			tags: ["wordpress", "fullscreen", "music"],
-// 			colors: ["#3B3B3A", "#58585A", "#B4B4B4"],
-// 			image_type: "wide",
-// 			images: [
-// 				"https://chrismcnally.co.uk/assets/screens/blackheart/home.png",
-// 				"https://chrismcnally.co.uk/assets/screens/blackheart/menu.png",
-// 				"https://chrismcnally.co.uk/assets/screens/blackheart/videos.png"
-// 			]
-// 		},
-// 		{
-// 			name: "Haines Watts hwca.com",
-// 			desc: "Huge multisite for top 15 accountancy firm with over 70 offices",
-// 			tags: ["wordpress", "corporate", "accountancy"],
-// 			colors: ["#DC002E", "#02678E", "#37454E"],
+// 			name: "Name",
+// 			desc: "description of the project",
+// 			tags: ["Tag1", "Tag2", "Tag3"],
+// 			colors: ["#E30613", "#00698C", "#737373", "#5CB4EB"],
 // 			image_type: "tall",
 // 			images: [
-// 				"https://chrismcnally.co.uk/assets/screens/hwca/home.png",
-// 				"https://chrismcnally.co.uk/assets/screens/hwca/office-home.png",
-// 				"https://chrismcnally.co.uk/assets/screens/hwca/www.hwca.com_about-us_history_.png"
+// 				"https://link.png",
+// 				"https://link.png",
+// 				"https://link.png"
 // 			]
 // 		}
 // 	]
@@ -232,11 +218,10 @@
 // 					</div>
 // 					<div className="col-md-6">
 // 						<div class="float-md-right">
-// 							<a href="https://chrismcnally.co.uk">chrismcnally.co.uk</a> /{" "}
-// 							<a href="https://codepen.io/chrismcnally">codepen.io</a> /{" "}
-// 							<a href="https://uk.linkedin.com/in/chrismcnally1
-// ">linkedin.com</a> /
-// 							<a href="https://twitter.com/ChrisMcNallyWeb">twitter.com</a>
+// 							<a href="https://hanaofangel.com">Website</a> /{" "}
+// 							<a href="https://uk.linkedin.com/in/hanaofangel
+// ">LinkedIn</a> /
+// 							<a href="https://twitter.com/hanaofangel">Twitter</a>
 // 						</div>
 // 					</div>
 // 				</div>
