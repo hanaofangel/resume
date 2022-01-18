@@ -59,11 +59,11 @@ var info = {
 			colors: ["#C57C44", "#CCCCCC", "#FFFFFF", "##004BCC"],
 			image_type: "tall",
 			images: [
-				"https://flic.kr/p/MUz38E",
-				"https://flic.kr/p/NmNRLZ",
-				"https://flic.kr/p/NmP9Ak",
-				"https://flic.kr/p/Nbuc2N",
-				"https://flic.kr/p/Nbuyxd"]
+				"https://picsum.photos/200",
+				"https://picsum.photos/200",
+				"https://picsum.photos/200",
+				"https://picsum.photos/200",
+				"https://picsum.photos/200"]
 		},
 
 
